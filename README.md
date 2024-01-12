@@ -1,2 +1,2 @@
 # Flight-Price-Prediction
-Flight Price Prediction
+The Flight Price Prediction project aims to develop a predictive model to estimate the prices of airline tickets. The goal is to provide travelers with an accurate and reliable tool that can help them anticipate and plan their travel expenses. The model will take into account various features such as the departure and arrival locations, flight duration, date of booking, and other relevant factors to predict the expected cost of a flight.
